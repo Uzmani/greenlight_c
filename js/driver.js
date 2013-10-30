@@ -3,7 +3,7 @@ $(document).ready(runApp)
 function runApp(){
 
   console.log('hi, runapp')
-  var serverBase = "http://localhost:3000"
+  var serverBase = "http://greenlightme.herokuapp.com"
   // var
   auth = new AuthenticationController(serverBase)
   testController = new Controller(serverBase, auth)

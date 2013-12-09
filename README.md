@@ -6,5 +6,6 @@ This is the client-side of our app.
   - OO javascript
   - jQuery
   - AJAX
+  - HTML5
 
 
